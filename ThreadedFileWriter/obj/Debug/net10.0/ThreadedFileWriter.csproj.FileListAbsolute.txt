@@ -1,0 +1,14 @@
+C:\Projects\ThreadedFileWriter\bin\Debug\net10.0\ThreadedFileWriter.exe
+C:\Projects\ThreadedFileWriter\bin\Debug\net10.0\ThreadedFileWriter.deps.json
+C:\Projects\ThreadedFileWriter\bin\Debug\net10.0\ThreadedFileWriter.runtimeconfig.json
+C:\Projects\ThreadedFileWriter\bin\Debug\net10.0\ThreadedFileWriter.dll
+C:\Projects\ThreadedFileWriter\bin\Debug\net10.0\ThreadedFileWriter.pdb
+C:\Projects\ThreadedFileWriter\obj\Debug\net10.0\ThreadedFileWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ThreadedFileWriter\obj\Debug\net10.0\ThreadedFileWriter.AssemblyInfoInputs.cache
+C:\Projects\ThreadedFileWriter\obj\Debug\net10.0\ThreadedFileWriter.AssemblyInfo.cs
+C:\Projects\ThreadedFileWriter\obj\Debug\net10.0\ThreadedFileWriter.csproj.CoreCompileInputs.cache
+C:\Projects\ThreadedFileWriter\obj\Debug\net10.0\ThreadedFileWriter.dll
+C:\Projects\ThreadedFileWriter\obj\Debug\net10.0\refint\ThreadedFileWriter.dll
+C:\Projects\ThreadedFileWriter\obj\Debug\net10.0\ThreadedFileWriter.pdb
+C:\Projects\ThreadedFileWriter\obj\Debug\net10.0\ThreadedFileWriter.genruntimeconfig.cache
+C:\Projects\ThreadedFileWriter\obj\Debug\net10.0\ref\ThreadedFileWriter.dll
